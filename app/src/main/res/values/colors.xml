@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="menu_item_bg">#ECECEC</color>
+    <color name="mainlist_item_bg">#B3ffffff</color>
+    <color name="filter_item_bg">#F5A623</color>
+    <color name="filter_item_border_bg">#33F5A623</color>
+    <color name="filter_reset_btn_bg">#CCCCCC</color>
+    <color name="filter_reset_btn_bg_press">#8f8f8f</color>
+    <color name="filter_sure_btn_bg">#F56923</color>
+    <color name="filter_sure_btn_bg_press">#DC143C</color>
+    <color name="normal_color">#ffffffff</color>
+    <color name="background_gray1">#EBEBEB</color>
+    <color name="background_gray2">#E6E6E6</color>
+    <color name="background_gray3">#D4D4D4</color>
+    <color name="background_gray4">#EFEFF4</color>
+</resources>
